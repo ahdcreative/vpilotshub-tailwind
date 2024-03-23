@@ -1,0 +1,13 @@
+{
+  "name": "@ahdcreative/vpilothub-tailwind-config",
+  "version": "1.0.0",
+  "description": "TailwindCSS configuration used by vPilotsHub projects",
+  "main": "vpilothub-tailwind-config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdcreative/vpilotshub-tailwind.git"
+  }
+}
